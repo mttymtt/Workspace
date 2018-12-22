@@ -1,4 +1,4 @@
-# Type Design Notes/Documentation
+# Notes/Documentation
 
 Here's the basic set up I use for maintaining notes while working on type. I primarily work in Glyphs App so I store these notes in the Font Info "Notes" section.
 
@@ -44,7 +44,7 @@ Here's the basic set up I use for maintaining notes while working on type. I pri
 - So I make note of what major change constituted a new file.
 
 **Design To-Do**
-[ ] 
+[ ]
 
 **Production To-Do**
 [ ]
