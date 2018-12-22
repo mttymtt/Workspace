@@ -25,12 +25,13 @@ Dropbox
 │  │  │     │  │     │  ├─ Fonts
 │  │  │     │  │     │  ├─ Reference
 │  │  │     │  │     │  └─ Sketches
-│  │  │     │  │     ├─ _Review [PDFs I send clients]
+│  │  │     │  │     ├─ _Review
 │  │  │     │  │     │  ├─ _Working
 │  │  │     │  │     │  │  ├─ Example-Client_Logo_Review_01.indd
 │  │  │     │  │     │  │  └─ Example-Client_Logo_Review_02.indd
 │  │  │     │  │     │  ├─ Example-Client_Logo_Review_01.pdf
 │  │  │     │  │     │  └─ Example-Client_Logo_Review_02.pdf
+│  │  │     │  │     │       - These are PDFs I send to clients
 │  │  │     │  │     └─ Example-Client_Logo_00-02.ai
 │  │  │     │  │          - The most recent working file is always at the bottom
 │  │  │     │  │            And ideally only one or two files are visible
