@@ -2,7 +2,7 @@
 
 Things to include here:
 
-  [ ] Keyboard Shortcuts
-  [ ] Plugins
-  [ ] Scripts
-  [ ] Workspace
+  - [ ] Keyboard Shortcuts
+  - [ ] Plugins
+  - [ ] Scripts
+  - [ ] Workspace
